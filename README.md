@@ -1,4 +1,5 @@
-Witam na mojej stronie internetowej
+Witam na mojej stronie internetowej!
+
 Jestem Krzysiek i studiuje Informatykę i Systemy Inteligentne na AGH.
 
 # Moje projekty:
